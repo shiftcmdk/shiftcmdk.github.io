@@ -1,0 +1,21 @@
+<package>
+	<id>com.shiftcmdk.homescreenswipelock_0.1_iphoneos-arm</id>
+	<name>HomeScreenSwipeLock</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Swipe up on the home screen to lock the device.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
