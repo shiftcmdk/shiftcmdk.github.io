@@ -1,7 +1,7 @@
 <package>
-	<id>com.shiftcmdk.ccaudiobalance_1.1_iphoneos-arm</id>
+	<id>com.shiftcmdk.ccaudiobalance_1.1.1_iphoneos-arm</id>
 	<name>CCAudioBalance</name>
-	<version>1.1</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -19,7 +19,7 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change>You can now swipe up from the bottom to reveal a mono audio switch.</change>
+		<change>Added support for TinyVolume from CCModules.</change>
 	</changelog>
 	<links></links>
 </package>

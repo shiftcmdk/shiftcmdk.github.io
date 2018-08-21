@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.1</version>
-		<change>You can now swipe up from the bottom to reveal a mono audio switch.>
+		<version>1.1.1</version>
+		<change>Added support for TinyVolume from CCModules.</change>
 	</changes>
 </changelog>

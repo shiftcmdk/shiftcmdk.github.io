@@ -1,14 +1,14 @@
 Package: com.shiftcmdk.ccaudiobalance
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1_iphoneos-arm.deb
-Size: 8320
-MD5sum: 9e47ff4a008100e3739b50c2c18fbad4
-SHA1: 487846c86f43d92c2d50ebd2e91fe22e1936a9b6
-SHA256: 828547744f2544a0ae2321d31807915cab8502c0d3a9e5e425979714b12a4707
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1.1_iphoneos-arm.deb
+Size: 8516
+MD5sum: 64571134cb5b84a440b2b757b91ed9f5
+SHA1: 7e5423aab29d6939ef90ee51f1cce4b126ab83be
+SHA256: 5bae6c14bcef340d974941d2d64c32c7789e89f5a24fff28f129be57d76a9343
 Section: Tweaks
 Description: Adjust the left/right audio balance from the volume control menu in Control Center.
 Author: shiftcmdk
