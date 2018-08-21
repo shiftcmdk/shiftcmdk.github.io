@@ -1,7 +1,7 @@
 <package>
-	<id>com.shiftcmdk.ccaudiobalance_1.0_iphoneos-arm</id>
+	<id>com.shiftcmdk.ccaudiobalance_1.1_iphoneos-arm</id>
 	<name>CCAudioBalance</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -10,7 +10,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Adjust the left/right audio balance from the volume control menu in Control Center.</description>
+		<description>Adjust the left/right audio balance from the volume control menu in Control Center. Swipe up from the bottom to reveal a mono audio switch.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -19,7 +19,7 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change>Initial release.</change>
+		<change>You can now swipe up from the bottom to reveal a mono audio switch.</change>
 	</changelog>
 	<links></links>
 </package>
