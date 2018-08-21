@@ -1,0 +1,25 @@
+<package>
+	<id>com.shiftcmdk.ccaudiobalance_1.0_iphoneos-arm</id>
+	<name>CCAudioBalance</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Adjust the left/right audio balance from the volume control menu in Control Center.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>ccaudiobalance.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>
