@@ -1,0 +1,25 @@
+<package>
+	<id>com.shiftcmdk.settingscollapse_1.0_iphoneos-arm</id>
+	<name>SettingsCollapse</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Expand or hide individual sections in the Settings app.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>settingscollapse.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>

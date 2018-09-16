@@ -32,3 +32,20 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
 Name: HomeScreenSwipeLock
 
+Package: com.shiftcmdk.settingscollapse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.0_iphoneos-arm.deb
+Size: 14676
+MD5sum: f7fe3cc364da343db0a858582a1bf777
+SHA1: 4a5e440882109d4d0465f09469ce40e2a156adfd
+SHA256: 9ab38d8b2723794257782cb5dcbc2e6172cc50d578eb20a8f68eb6d02066a384
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
+
