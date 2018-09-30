@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.1.1</version>
-		<change>Fixes blur not showing in app switcher and reachability. Fixes home screen not resetting sometimes. Wallpaper now scrolls together with the icons.</change>
+		<version>1.0</version>
+		<change>Fade status bar on swipe. Internal fixes. Bump version to 1.0.</change>
 	</changes>
 </changelog>

@@ -16,16 +16,16 @@ Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiob
 Name: CCAudioBalance
 
 Package: com.shiftcmdk.homescreenswipelock
-Version: 0.1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
-Installed-Size: 120
+Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1.1_iphoneos-arm.deb
-Size: 7736
-MD5sum: 1e6c67ddc25182edfbb1f33e45ed6360
-SHA1: 697ed7bca766e15347ae27e3ccb6260ffe5ba534
-SHA256: e44e0ab8ff3f100d26e021aa07341d134f56ffbfcf9827bcde63753d557e6679
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0_iphoneos-arm.deb
+Size: 8258
+MD5sum: d21649eeb0345d75b28463e9e2a42203
+SHA1: d187f0fd2255134ff51b2fe13963c99a58028024
+SHA256: 479ac44905aa9fb04b1b7c29c287cf559d346ba9fe061713a54760a723ab26da
 Section: Tweaks
 Description: Swipe up on the home screen to lock the device.
 Author: shiftcmdk

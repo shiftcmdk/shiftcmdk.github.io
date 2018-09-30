@@ -1,7 +1,7 @@
 <package>
-	<id>com.shiftcmdk.homescreenswipelock_0.1.1_iphoneos-arm</id>
+	<id>com.shiftcmdk.homescreenswipelock_1.0_iphoneos-arm</id>
 	<name>HomeScreenSwipeLock</name>
-	<version>0.1.1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -15,7 +15,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixes blur not showing in app switcher and reachability. Fixes home screen not resetting sometimes. Wallpaper now scrolls together with the icons.</change>
+		<change>Fade status bar on swipe. Internal fixes. Bump version to 1.0.</change>
 	</changelog>
 	<links></links>
 </package>
