@@ -1,0 +1,37 @@
+<package>
+	<id>com.shiftcmdk.pencilchargingindicator_1.0_iphoneos-arm</id>
+	<name>PencilChargingIndicator</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018. Includes four themes, options to enable or disable based on where you are on your device and much more. Can be customized in settings.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>light.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>dark.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>lightblurred.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>darkblurred.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>
