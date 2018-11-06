@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Fixed a bug where the indicator would get stuck on the top left in certain configurations.</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial release.</change>
 	</changes>
