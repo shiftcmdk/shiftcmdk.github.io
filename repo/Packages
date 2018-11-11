@@ -33,16 +33,16 @@ Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescre
 Name: HomeScreenSwipeLock
 
 Package: com.shiftcmdk.pencilchargingindicator
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
-Installed-Size: 252
+Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.2_iphoneos-arm.deb
-Size: 21522
-MD5sum: f35e45a15031e81683c297e60f4182c9
-SHA1: 82d90d4c270d8a3e5175acd3638f32d4bc743aa5
-SHA256: f9f128a10ca250c6585fc96d35395c14c13770e2425c27d9269bd5a99032867d
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1_iphoneos-arm.deb
+Size: 40768
+MD5sum: d226c56cf9f684d2b421fe290006141c
+SHA1: eb5c0bf1a41fc82885a8f9ecd5f1508931a2de79
+SHA256: 7bf5a63f54b70f05abf458e3d675f22c35a940a4adb55c466f58e07fc3d6e7ea
 Section: Tweaks
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
 Author: shiftcmdk
