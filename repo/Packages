@@ -50,16 +50,16 @@ Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilch
 Name: PencilChargingIndicator
 
 Package: com.shiftcmdk.settingscollapse
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.settingscollapse_1.0_iphoneos-arm.deb
-Size: 14676
-MD5sum: f7fe3cc364da343db0a858582a1bf777
-SHA1: 4a5e440882109d4d0465f09469ce40e2a156adfd
-SHA256: 9ab38d8b2723794257782cb5dcbc2e6172cc50d578eb20a8f68eb6d02066a384
+Installed-Size: 276
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.1_iphoneos-arm.deb
+Size: 30460
+MD5sum: 916b6e137a0c39e821b468781a1c8916
+SHA1: 389f9884c98d45b84cabbe20af73e2b0b8da3fa0
+SHA256: 01d90244c5706b877f0e4b5322e4a0b2251df4ab7306de1c82f72d47851445c3
 Section: Tweaks
 Description: Expand or hide individual sections in the Settings app.
 Author: shiftcmdk
