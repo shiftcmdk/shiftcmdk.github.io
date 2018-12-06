@@ -53,13 +53,13 @@ Package: com.shiftcmdk.settingscollapse
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
-Installed-Size: 276
+Installed-Size: 348
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.shiftcmdk.settingscollapse_1.1_iphoneos-arm.deb
-Size: 30460
-MD5sum: 916b6e137a0c39e821b468781a1c8916
-SHA1: 389f9884c98d45b84cabbe20af73e2b0b8da3fa0
-SHA256: 01d90244c5706b877f0e4b5322e4a0b2251df4ab7306de1c82f72d47851445c3
+Size: 42044
+MD5sum: 99f13ad781d0242b2849548965d6407e
+SHA1: 2cf964e9263341a1cc0550f9d2a9d5e3387bab3d
+SHA256: 259426d38a8f10f5521dab4d2af07d6b57c235fe6cd22d865d1693c7bcc4abb4
 Section: Tweaks
 Description: Expand or hide individual sections in the Settings app.
 Author: shiftcmdk
