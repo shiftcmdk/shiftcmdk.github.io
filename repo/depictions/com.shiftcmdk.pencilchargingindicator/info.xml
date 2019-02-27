@@ -1,7 +1,7 @@
 <package>
-	<id>com.shiftcmdk.pencilchargingindicator_1.2~b1_iphoneos-arm</id>
+	<id>com.shiftcmdk.pencilchargingindicator_1.2~b2_iphoneos-arm</id>
 	<name>PencilChargingIndicator</name>
-	<version>1.2~b1</version>
+	<version>1.2~b2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -35,8 +35,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>iOS 12 support.</change>
-		<change>Fixed a crash with notifications on iOS 12.</change>
+		<change>Fixed notifications not having a margin with large banners enabled on iOS 12.</change>
+		<change>Internal fixes.</change>
 	</changelog>
 	<links></links>
 </package>
