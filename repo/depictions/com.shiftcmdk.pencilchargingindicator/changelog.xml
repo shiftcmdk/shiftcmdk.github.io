@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.2~b3</version>
+		<change>Fixed a bug where notifications would become unresponsive in landscape mode.</change>
+		<change>Fixed a bug where the original charging message would not show up on the lock screen.</change>
+	</changes>
+	<changes>
 		<version>1.2~b2</version>
 		<change>Fixed notifications not having a margin with large banners enabled on iOS 12.</change>
 		<change>Internal fixes.</change>

@@ -1,7 +1,7 @@
 <package>
-	<id>com.shiftcmdk.pencilchargingindicator_1.2~b2_iphoneos-arm</id>
+	<id>com.shiftcmdk.pencilchargingindicator_1.2~b3_iphoneos-arm</id>
 	<name>PencilChargingIndicator</name>
-	<version>1.2~b2</version>
+	<version>1.2~b3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -35,8 +35,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed notifications not having a margin with large banners enabled on iOS 12.</change>
-		<change>Internal fixes.</change>
+		<change>Fixed a bug where notifications would become unresponsive in landscape mode.</change>
+		<change>Fixed a bug where the original charging message would not show up on the lock screen.</change>
 	</changelog>
 	<links></links>
 </package>
