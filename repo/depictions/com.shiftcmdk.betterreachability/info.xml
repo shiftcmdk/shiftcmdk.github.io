@@ -1,0 +1,21 @@
+<package>
+	<id>com.shiftcmdk.betterreachability_0.1_iphoneos-arm</id>
+	<name>BetterReachability</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Make Reachability more useful by scaling down the interface.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>
