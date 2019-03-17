@@ -304,6 +304,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
 Name: PencilChargingIndicator
 
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b5
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
+Size: 388116
+MD5sum: d49ebe2d2a20be1210f7705fd535c640
+SHA1: 633c9ea970d155bbbe482545cdbcbeee33a8e673
+SHA256: e93055daba7bef20e2fb90f0929d6207771e08d35890613618a5ee0463b971a5
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
 Package: com.shiftcmdk.settingscollapse
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,7 +1,7 @@
 <package>
-    <id>com.shiftcmdk.pencilchargingindicator_1.2~b4_iphoneos-arm</id>
+    <id>com.shiftcmdk.pencilchargingindicator_1.2~b5_iphoneos-arm</id>
     <name>PencilChargingIndicator</name>
-    <version>1.2~b4</version>
+    <version>1.2~b5</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -35,10 +35,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Added a compatibility mode to support environments with tweaks like Bazzi or BatteryPercentX. Can be enabled in settings.</change>
-        <change>Added support for portrait upside down orientation.</change>
-        <change>Improved notification content handling.</change>
-        <change>Fixed a bug where the low battery alert would not show up with certain configurations.</change>
+        <change>Minor fixes for compatibility mode.</change>
     </changelog>
     <links></links>
 </package>
