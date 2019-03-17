@@ -1,42 +1,44 @@
 <package>
-	<id>com.shiftcmdk.pencilchargingindicator_1.2~b3_iphoneos-arm</id>
-	<name>PencilChargingIndicator</name>
-	<version>1.2~b3</version>
-	<compatibility>
-		<firmware>
-			<miniOS>11.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018. Includes four themes, options to enable or disable based on where you are on your device and much more. Can be customized in settings.</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>light.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>dark.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>lightblurred.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>darkblurred.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>notifications.png</image>
-		</screenshot>
-	</screenshots>
-	<changelog>
-		<change>Fixed a bug where notifications would become unresponsive in landscape mode.</change>
-		<change>Fixed a bug where the original charging message would not show up on the lock screen.</change>
-	</changelog>
-	<links></links>
+    <id>com.shiftcmdk.pencilchargingindicator_1.2~b4_iphoneos-arm</id>
+    <name>PencilChargingIndicator</name>
+    <version>1.2~b4</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018. Includes four themes, options to enable or disable based on where you are on your device and much more. Can be customized in settings.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>light.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>dark.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>lightblurred.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>darkblurred.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>notifications.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>Added a compatibility mode to support environments with tweaks like Bazzi or BatteryPercentX. Can be enabled in settings.</change>
+        <change>Added support for portrait upside down orientation.</change>
+        <change>Improved notification content handling.</change>
+        <change>Fixed a bug where the low battery alert would not show up with certain configurations.</change>
+    </changelog>
+    <links></links>
 </package>

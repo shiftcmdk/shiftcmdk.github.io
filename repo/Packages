@@ -16,6 +16,40 @@ Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterre
 Name: BetterReachability
 
 Package: com.shiftcmdk.ccaudiobalance
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.0_iphoneos-arm.deb
+Size: 6988
+MD5sum: 0477f2f23d77857e5a5ac27533d6bb7c
+SHA1: 303249fb7b712e38b70e3354d9ead89ccfbe2c3c
+SHA256: db866145a5869cd332376cec58e543cbc25c1bfc166a448993da40e77fb69b7f
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.ccaudiobalance_1.1_iphoneos-arm.deb
+Size: 8320
+MD5sum: 9e47ff4a008100e3739b50c2c18fbad4
+SHA1: 487846c86f43d92c2d50ebd2e91fe22e1936a9b6
+SHA256: 828547744f2544a0ae2321d31807915cab8502c0d3a9e5e425979714b12a4707
+Section: Tweaks
+Description: Adjust the left/right audio balance from the volume control menu in Control Center.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
+Name: CCAudioBalance
+
+Package: com.shiftcmdk.ccaudiobalance
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
@@ -31,6 +65,40 @@ Description: Adjust the left/right audio balance from the volume control menu in
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.ccaudiobalance
 Name: CCAudioBalance
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1_iphoneos-arm.deb
+Size: 6430
+MD5sum: a1f0ffe78c6d8720648f000acf262146
+SHA1: 7f39ba6cf129e4476e4d8a71c1c1c4fc73c181a6
+SHA256: c4b8c8722a43d0b5a8f09ebab1164e3e58cf6a96dd7b303aa4487ba0ce56caa2
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
+Package: com.shiftcmdk.homescreenswipelock
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_0.1.1_iphoneos-arm.deb
+Size: 7736
+MD5sum: 1e6c67ddc25182edfbb1f33e45ed6360
+SHA1: 697ed7bca766e15347ae27e3ccb6260ffe5ba534
+SHA256: e44e0ab8ff3f100d26e021aa07341d134f56ffbfcf9827bcde63753d557e6679
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
 
 Package: com.shiftcmdk.homescreenswipelock
 Version: 1.0
@@ -50,6 +118,159 @@ Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescre
 Name: HomeScreenSwipeLock
 
 Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0_iphoneos-arm.deb
+Size: 21232
+MD5sum: 797dcfd129422c6fe3659e768afb38f3
+SHA1: b45a8c3d3c987b4c986fa177b19a84c85c0609f2
+SHA256: 9afccb980399befd5d2724912077f5ec49d72abee13ec7a17566080242013c98
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.1_iphoneos-arm.deb
+Size: 21218
+MD5sum: d90b5e8e0bc6b895b660cfa46e387f6c
+SHA1: bbc725141a955f6c578a2de5e8d5da1e5ec5356b
+SHA256: 839b8beb39d2b70a6dbf0721fe98bb44845e04c29a3a912ae603e23aacbea8f8
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.0.2_iphoneos-arm.deb
+Size: 21522
+MD5sum: f35e45a15031e81683c297e60f4182c9
+SHA1: 82d90d4c270d8a3e5175acd3638f32d4bc743aa5
+SHA256: f9f128a10ca250c6585fc96d35395c14c13770e2425c27d9269bd5a99032867d
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1_iphoneos-arm.deb
+Size: 40768
+MD5sum: d226c56cf9f684d2b421fe290006141c
+SHA1: eb5c0bf1a41fc82885a8f9ecd5f1508931a2de79
+SHA256: 7bf5a63f54b70f05abf458e3d675f22c35a940a4adb55c466f58e07fc3d6e7ea
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.1_iphoneos-arm.deb
+Size: 40954
+MD5sum: 29fdc82ea42eb928094e6f563b27f551
+SHA1: de747dff5cf7b27f55e0bace10f35d49b731a6e5
+SHA256: d3ead9fad1618410d9b2516c298dd52656f003edc1448eb24704fd9f7748dd32
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.2_iphoneos-arm.deb
+Size: 45998
+MD5sum: 01e92a4348d8a9c7d81ea759c7d41508
+SHA1: f6256f9c76896b4bfd6c1b1e5e4110a355207361
+SHA256: 91c1e894ffc31072e4a7a3427983eff06622c262eb3a2131f16a821ffdca189b
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.1.3_iphoneos-arm.deb
+Size: 46692
+MD5sum: 82118efbb1569046cf30e8d44234be08
+SHA1: 6886993db8fd1973939e91a8f309b4befed72093
+SHA256: 0198089f71af44969b53ac0bae33db5b4acc7407033bc827621ccd048ea5ff11
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b1_iphoneos-arm.deb
+Size: 48472
+MD5sum: bfe570f56b3666718cec98bf487df850
+SHA1: b178544f1161fa41e4730753c467bb6e5d9af05c
+SHA256: af29ba580f5dc5768e03ed8c1baef853cd6aaef82730fa71815d6727205f2327
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b2_iphoneos-arm.deb
+Size: 48484
+MD5sum: 1fb0b7a80f325602fa7849d73c595378
+SHA1: 81529457af522223cb6c30d6aaed37e4b22d3dd1
+SHA256: bed3a3505c86085eb4d7ecf3e9b4b731c4a9dc72a597ec2204ae9f95e470eb01
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
 Version: 1.2~b3
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
@@ -65,6 +286,40 @@ Description: Make charging less boring with the Apple Pencil charging animation 
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
 Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.pencilchargingindicator
+Version: 1.2~b4
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 3528
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.pencilchargingindicator_1.2~b4_iphoneos-arm.deb
+Size: 387944
+MD5sum: a5460314128d82bc590c153c91ca175d
+SHA1: 8cf63e8ac17525cfa48c15b36b341cdf99d10621
+SHA256: 7ef504696a8e8376f10dc6d503659845da4afa4132781a124b1fc05402361d7e
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
+Name: PencilChargingIndicator
+
+Package: com.shiftcmdk.settingscollapse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.settingscollapse_1.0_iphoneos-arm.deb
+Size: 14676
+MD5sum: f7fe3cc364da343db0a858582a1bf777
+SHA1: 4a5e440882109d4d0465f09469ce40e2a156adfd
+SHA256: 9ab38d8b2723794257782cb5dcbc2e6172cc50d578eb20a8f68eb6d02066a384
+Section: Tweaks
+Description: Expand or hide individual sections in the Settings app.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.settingscollapse
+Name: SettingsCollapse
 
 Package: com.shiftcmdk.settingscollapse
 Version: 1.1
