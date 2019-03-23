@@ -1,21 +1,25 @@
 <package>
-	<id>com.shiftcmdk.betterreachability_0.1_iphoneos-arm</id>
-	<name>BetterReachability</name>
-	<version>0.1</version>
-	<compatibility>
-		<firmware>
-			<miniOS>11.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Make Reachability more useful by scaling down the interface.</description>
-	</descriptionlist>
-	<screenshots>
-	</screenshots>
-	<changelog>
-		<change>Initial release.</change>
-	</changelog>
-	<links></links>
+    <id>com.shiftcmdk.betterreachability_0.2_iphoneos-arm</id>
+    <name>BetterReachability</name>
+    <version>0.2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Make Reachability more useful by scaling down the interface.</description>
+    </descriptionlist>
+    <screenshots>
+    </screenshots>
+    <changelog>
+        <change>Added a preference bundle.</change>
+        <change>Added the option to choose the default position.</change>
+        <change>Added the option to remember the last scale.</change>
+        <change>Added a scale indicator.</change>
+        <change>Added the option to show or hide the scale indicator.</change>
+    </changelog>
+    <links></links>
 </package>
