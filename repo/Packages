@@ -345,13 +345,14 @@ Maintainer: shiftcmdk
 Installed-Size: 372
 Depends: mobilesubstrate, com.shmoopillc.flexible
 Filename: ./debs/com.shiftcmdk.permaflex_1.0.1_iphoneos-arm.deb
-Size: 57146
-MD5sum: dec9b7a1c19681524610596a4370ae6f
-SHA1: e287008118fbd44903f8018b6a85f0232149a8a4
-SHA256: e079b5f25098ba8534af80dc6eaaf5f63f0a590ab5fbe5ef386e34dea4d44f4c
+Size: 57138
+MD5sum: 97030d3afac5152997aae0f3cedc5487
+SHA1: 345fdf9934424c5c2448952e41d61bd367eb3edc
+SHA256: 3d0818c8835d51540d58dda1906d53cc111afeb07010da1f94ac45901faa52c3
 Section: Tweaks
 Description: Permanently hide elements with FLEXible.
 Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
 Name: PermaFlex
 
 Package: com.shiftcmdk.settingscollapse
