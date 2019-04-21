@@ -338,6 +338,22 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
 Name: PencilChargingIndicator
 
+Package: com.shiftcmdk.permaflex
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 372
+Depends: mobilesubstrate, com.shmoopillc.flexible
+Filename: ./debs/com.shiftcmdk.permaflex_1.0.1_iphoneos-arm.deb
+Size: 57146
+MD5sum: dec9b7a1c19681524610596a4370ae6f
+SHA1: e287008118fbd44903f8018b6a85f0232149a8a4
+SHA256: e079b5f25098ba8534af80dc6eaaf5f63f0a590ab5fbe5ef386e34dea4d44f4c
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Name: PermaFlex
+
 Package: com.shiftcmdk.settingscollapse
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,0 +1,37 @@
+<package>
+    <id>com.shiftcmdk.permaflex_1.0.1_iphoneos-arm</id>
+    <name>PermaFlex</name>
+    <version>1.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Permanently hide elements with FLEXible.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>permaflex_entry.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>permaflex_variations.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>permaflex_properties.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>permaflex_settings.PNG</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>Initial release.</change>
+    </changelog>
+    <links></links>
+</package>
