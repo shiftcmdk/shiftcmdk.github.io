@@ -1,7 +1,7 @@
 <package>
-    <id>com.shiftcmdk.permaflex_1.0.1_iphoneos-arm</id>
+    <id>com.shiftcmdk.permaflex_1.0.2_iphoneos-arm</id>
     <name>PermaFlex</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
     <dependencies></dependencies>
     <descriptionlist>
-        <description>Permanently hide elements with FLEXible.</description>
+        <description>Permanently hide elements with FLEXible (or any other tweak that uses FLEX).</description>
     </descriptionlist>
     <screenshots>
         <screenshot>
@@ -31,7 +31,8 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Initial release.</change>
+        <change>Removed FLEXible from dependencies.</change>
+        <change>arm64e support</change>
     </changelog>
     <links></links>
 </package>
