@@ -1,6 +1,12 @@
 <changelog>
-	<changes>
-		<version>1.0</version>
-		<change>Fade status bar on swipe. Internal fixes. Bump version to 1.0.</change>
-	</changes>
+    <changes>
+        <version>1.0.1</version>
+        <change>iOS 12 support</change>
+        <change>arm64e support</change>
+        <change>Minor improvements to scrolling logic.</change>
+    </changes>
+    <changes>
+        <version>1.0</version>
+        <change>Fade status bar on swipe. Internal fixes. Bump version to 1.0.</change>
+    </changes>
 </changelog>

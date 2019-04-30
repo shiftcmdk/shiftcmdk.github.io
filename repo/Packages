@@ -134,6 +134,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
 Name: HomeScreenSwipeLock
 
+Package: com.shiftcmdk.homescreenswipelock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.homescreenswipelock_1.0.1_iphoneos-arm.deb
+Size: 6998
+MD5sum: a8b6ed24e45d11c36e062b500fb9c0c7
+SHA1: 83844a493b316f712fa5f58940138cc4f6dea14a
+SHA256: 81881fcbbcaf1b366d51b4fc3fbc8531a67f8ea02002d149ba64dfd14ca5568b
+Section: Tweaks
+Description: Swipe up on the home screen to lock the device.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
+Name: HomeScreenSwipeLock
+
 Package: com.shiftcmdk.pencilchargingindicator
 Version: 1.0
 Architecture: iphoneos-arm

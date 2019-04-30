@@ -1,21 +1,22 @@
 <package>
-	<id>com.shiftcmdk.homescreenswipelock_1.0_iphoneos-arm</id>
-	<name>HomeScreenSwipeLock</name>
-	<version>1.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>11.4</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Swipe up on the home screen to lock the device.</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Fade status bar on swipe. Internal fixes. Bump version to 1.0.</change>
-	</changelog>
-	<links></links>
+    <id>com.shiftcmdk.homescreenswipelock_1.0.1_iphoneos-arm</id>
+    <name>HomeScreenSwipeLock</name>
+    <version>1.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Swipe up on the home screen to lock the device.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>iOS 12 support</change>
+        <change>arm64e support</change>
+        <change>Minor improvements to scrolling logic.</change>
+    </changelog>
+    <links></links>
 </package>
