@@ -32,6 +32,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
 Name: BetterReachability
 
+Package: com.shiftcmdk.betterreachability
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.betterreachability_0.2.1_iphoneos-arm.deb
+Size: 16636
+MD5sum: 9c882f8ba8f9d52ebc35aaf66b92c89c
+SHA1: 6efea1944a9cb5bca657cbfb48b87b94291d5ee3
+SHA256: 63172063e90f85a60ca3638b63d7f64eb75170f2f58124c65fdcaf5d5ef1a84d
+Section: Tweaks
+Description: Make Reachability more useful by scaling down the interface.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
+Name: BetterReachability
+
 Package: com.shiftcmdk.ccaudiobalance
 Version: 1.0
 Architecture: iphoneos-arm

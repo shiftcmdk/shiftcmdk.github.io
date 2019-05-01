@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.2.1</version>
+        <change>arm64e support</change>
+    </changes>
+    <changes>
         <version>0.2</version>
         <change>Added a preference bundle.</change>
         <change>Added the option to choose the default position.</change>
