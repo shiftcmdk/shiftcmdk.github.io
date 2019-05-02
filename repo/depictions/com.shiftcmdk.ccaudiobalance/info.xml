@@ -1,25 +1,25 @@
 <package>
-	<id>com.shiftcmdk.ccaudiobalance_1.1.1_iphoneos-arm</id>
-	<name>CCAudioBalance</name>
-	<version>1.1.1</version>
-	<compatibility>
-		<firmware>
-			<miniOS>11.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Adjust the left/right audio balance from the volume control menu in Control Center. Swipe up from the bottom to reveal a mono audio switch.</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>ccaudiobalance.png</image>
-		</screenshot>	
-	</screenshots>
-	<changelog>
-		<change>Added support for TinyVolume from CCModules.</change>
-	</changelog>
-	<links></links>
+    <id>com.shiftcmdk.ccaudiobalance_1.1.2_iphoneos-arm</id>
+    <name>CCAudioBalance</name>
+    <version>1.1.2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Adjust the left/right audio balance from the volume control menu in Control Center. Swipe up from the bottom to reveal a mono audio switch.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>ccaudiobalance.png</image>
+        </screenshot>	
+    </screenshots>
+    <changelog>
+        <change>arm64e support</change>
+    </changelog>
+    <links></links>
 </package>
