@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3</version>
+        <change>Added an option to set a custom background image or color.</change>
+    </changes>
+    <changes>
         <version>0.2.1</version>
         <change>arm64e support</change>
     </changes>

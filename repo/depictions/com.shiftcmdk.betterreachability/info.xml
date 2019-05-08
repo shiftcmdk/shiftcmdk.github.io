@@ -1,7 +1,7 @@
 <package>
-    <id>com.shiftcmdk.betterreachability_0.2.1_iphoneos-arm</id>
+    <id>com.shiftcmdk.betterreachability_0.3_iphoneos-arm</id>
     <name>BetterReachability</name>
-    <version>0.2.1</version>
+    <version>0.3</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -15,7 +15,7 @@
     <screenshots>
     </screenshots>
     <changelog>
-        <change>arm64e support</change>
+        <change>Added an option to set a custom background image or color.</change>
     </changelog>
     <links></links>
 </package>
