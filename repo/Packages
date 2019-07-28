@@ -5,13 +5,14 @@ Maintainer: shiftcmdk
 Installed-Size: 392
 Depends: mobilesubstrate
 Filename: ./debs/com.shiftcmdk.autoalerts_1.0_iphoneos-arm.deb
-Size: 48804
-MD5sum: d3af8f011f016d8c04f97953d02b7015
-SHA1: 741303529e78fc3c2a35b15d04b38af3eafc0559
-SHA256: a8274958c7c3396aa8b730a96499a53ac94b548b3800440400ad54bbc05c14f8
+Size: 48746
+MD5sum: eb90a257688ff2e71cbfc9e9bcde68a4
+SHA1: 3643945d3d99c7a5ac635dffacaef1d274d65404
+SHA256: 32d1a8aabd20ec0b5f13a3c451659e811effd60ba36c70baa4b794f5ea40c653
 Section: Tweaks
 Description: Automate alert actions.
 Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Name: AutoAlerts
 
 Package: com.shiftcmdk.betterreachability
