@@ -15,6 +15,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Name: AutoAlerts
 
+Package: com.shiftcmdk.awesomepagedots
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.awesomepagedots_1.0_iphoneos-arm.deb
+Size: 5542
+MD5sum: 3badbe6b42e82a3843f6b346bbbb10ab
+SHA1: 605b884b968dd6639a560ea27c12d6377e396888
+SHA256: 9b3f0a65015b208034e6a804fd752c86a0c349143f40d27b3c66b1a425aeaa6a
+Section: Tweaks
+Description: Animated page control for the home screen.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.awesomepagedots
+Name: AwesomePageDots
+
 Package: com.shiftcmdk.betterreachability
 Version: 0.1
 Architecture: iphoneos-arm

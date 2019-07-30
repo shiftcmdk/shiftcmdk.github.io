@@ -1,0 +1,21 @@
+<package>
+	<id>com.shiftcmdk.awesomepagedots_1.0_iphoneos-arm</id>
+	<name>AwesomePageDots</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Animated page control for the home screen.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>
