@@ -1,6 +1,11 @@
 <changelog>
-	<changes>
-		<version>1.0</version>
-		<change>Initial release.</change>
-	</changes>
+    <changes>
+        <version>1.0.1</version>
+        <change>Support for right to left languages.</change>
+        <change>Possible fix for an issue with Bolders where the indicator would get stuck in the bottom left.</change>
+    </changes>
+    <changes>
+        <version>1.0</version>
+        <change>Initial release.</change>
+    </changes>
 </changelog>
