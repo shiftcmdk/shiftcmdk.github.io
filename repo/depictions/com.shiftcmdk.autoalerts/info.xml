@@ -1,25 +1,25 @@
 <package>
-	<id>com.shiftcmdk.autoalerts_1.0_iphoneos-arm</id>
-	<name>AutoAlerts</name>
-	<version>1.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>11.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>AutoAlerts lets you automate alert actions. Activate the overlay by long pressing the top of an alert.</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>autoalerts_final.png</image>
-		</screenshot>	
-	</screenshots>
-	<changelog>
-		<change>Initial release.</change>
-	</changelog>
-	<links></links>
+    <id>com.shiftcmdk.autoalerts_1.0.1_iphoneos-arm</id>
+    <name>AutoAlerts</name>
+    <version>1.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>AutoAlerts lets you automate alert actions. Activate the overlay by long pressing the top of an alert.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>autoalerts_final.png</image>
+        </screenshot>	
+    </screenshots>
+    <changelog>
+        <change>Fixed a crash on iPads when presenting save/delete action sheets.</change>
+    </changelog>
+    <links></links>
 </package>
