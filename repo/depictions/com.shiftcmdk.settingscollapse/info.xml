@@ -1,30 +1,26 @@
 <package>
-	<id>com.shiftcmdk.settingscollapse_1.1_iphoneos-arm</id>
-	<name>SettingsCollapse</name>
-	<version>1.1</version>
-	<compatibility>
-		<firmware>
-			<miniOS>11.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Expand or hide individual sections in the Settings app.</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>settingscollapse.png</image>
-		</screenshot>	
-	</screenshots>
-	<changelog>
-		<change>Added the ability to change the button color.</change>
-		<change>Added the option to use chevrons.</change>
-		<change>The Show More/Show Less title is now properly localized.</change>
-		<change>Added support for right to left languages.</change>
-		<change>Improved scrolling performance.</change>
-		<change>Minor UI enhancements.</change>
-	</changelog>
-	<links></links>
+    <id>com.shiftcmdk.settingscollapse_1.1.1_iphoneos-arm</id>
+    <name>SettingsCollapse</name>
+    <version>1.1.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Expand or hide individual sections in the Settings app.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>settingscollapse.png</image>
+        </screenshot>	
+    </screenshots>
+    <changelog>
+        <change>arm64e support</change>
+        <change>Fixed several crashes.</change>
+    </changelog>
+    <links></links>
 </package>
