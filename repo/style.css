@@ -1,0 +1,205 @@
+  body {
+    background-color: transparent;
+  }
+
+   .card {
+    border-radius: 0.5rem;
+  }
+
+  .btn-outline {
+    border-radius: 0.5rem;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000
+  }
+
+  .btn-outline:hover {
+    background-color: #CACACA;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-sileo {
+    border-radius: 0.5rem;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000
+  }
+
+  .btn-sileo:hover {
+    background-color: #4FCBBC;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-cydia {
+    border-radius: 0.5rem;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000
+  }
+
+  .btn-cydia:hover {
+    background-color: #AA694F;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-zebra {
+    border-radius: 0.5rem;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000
+  }
+
+  .btn-zebra:hover {
+    background-color: #DAE2E8;
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-email {
+    border-radius: 0.5rem;
+    border-color: #000000;
+    color: #000
+  }
+
+  .btn-email:hover {
+    background-color: #2483F5;
+    border-color: #2483F5;
+  }
+
+  .btn-reddit {
+    border-radius: 0.5rem;
+    border-color: #000000;
+    color: #000 
+  }
+
+  .btn-reddit:hover {
+    background-color: #E95125;
+    border-color: #E95125;
+  }
+
+  .btn-twitter {
+    border-radius: 0.5rem;
+    border-color: #000000;
+    color: #000 
+  }
+
+  .btn-twitter:hover {
+    background-color: #2B8EEF;
+    border-color: #2B8EEF;
+  }
+
+  .btn-paypal {
+    border-radius: 0.5rem;
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000
+  }
+
+  .btn-paypal:hover {
+    background-color: #123290;
+    border-color: transparent;
+    color: #000000
+  }
+
+/* –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+
+/* Dark mode implementation */
+  @media (prefers-color-scheme: dark) {
+
+  body {
+    color: #FFFFFF;
+    background-color: #24262b;
+  }
+
+  .card {
+     background-color: #404248;
+     border-color: transparent;
+     color: #FFFFFF
+   }
+
+  .btn-outline {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-outline:hover {
+    background-color: gray;
+    color: #FFFFFF
+  }
+
+  .btn-sileo {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-sileo:hover {
+    border-color: transparent;
+    color: #FFFFFF
+  }
+
+  .btn-cydia {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-cydia:hover {
+    border-color: transparent;
+    color: #FFFFFF
+  }
+
+  .btn-zebra {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-zebra:hover {
+    border-color: transparent;
+    color: #000000
+  }
+
+  .btn-email {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+  }
+
+  .btn-email:hover {
+    color: #FFFFFF;
+  }
+
+  .btn-reddit {    
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+  }
+
+  .btn-reddit:hover {
+    color: #FFFFFF;
+  }
+
+  .btn-twitter {
+  border-color: #FFFFFF;
+  color: #FFFFFF;
+  }
+
+  .btn-twitter:hover {
+    color: #FFFFFF;
+  }
+
+  .btn-paypal {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF
+  }
+
+  .btn-paypal:hover {
+    border-color: transparent;
+    color: #FFFFFF
+  }
+
+}
