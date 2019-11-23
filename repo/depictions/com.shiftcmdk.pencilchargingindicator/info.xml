@@ -1,7 +1,7 @@
 <package>
-    <id>com.shiftcmdk.pencilchargingindicator_1.2~b6_iphoneos-arm</id>
+    <id>com.shiftcmdk.pencilchargingindicator_1.2~b7_iphoneos-arm</id>
     <name>PencilChargingIndicator</name>
-    <version>1.2~b6</version>
+    <version>1.2~b7</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -35,7 +35,9 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>arm64e support</change>
+        <change>iOS 13 support.</change>
+        <change>Added two new styles that automatically adapt to iOS 13's dark mode.</change>
+        <change>Fixed a rare crash that could occur after a respring while showing notifications.</change>
     </changelog>
     <links></links>
 </package>
