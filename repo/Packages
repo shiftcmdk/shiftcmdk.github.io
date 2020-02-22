@@ -219,6 +219,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.betterreachability
 Name: BetterReachability
 
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0_iphoneos-arm.deb
+Size: 11912
+MD5sum: f37365276016e998b8a7b8dae07c16a1
+SHA1: 11dc2e1794cc359ffa7be35fda8467674fa825fd
+SHA256: 0d75f74e3701b1219b4b80a613f41d287ba54527ed394ee8f441103b93604e18
+Section: Tweaks
+Description: Set custom icons for Safari bookmarks.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.bookmarkicons
+Name: BookmarkIcons
+
 Package: com.shiftcmdk.ccaudiobalance
 Version: 1.0
 Architecture: iphoneos-arm

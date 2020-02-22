@@ -1,0 +1,25 @@
+<package>
+    <id>com.shiftcmdk.bookmarkicons_1.0_iphoneos-arm</id>
+    <name>BookmarkIcons</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Set custom icons for Safari bookmarks. Tap the icon while creating or editing a bookmark to select a new one.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description></description>
+            <image>bookmarkicons.png</image>
+        </screenshot>	
+    </screenshots>
+    <changelog>
+        <change>Initial release.</change>
+    </changelog>
+    <links></links>
+</package>
