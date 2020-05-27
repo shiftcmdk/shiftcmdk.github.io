@@ -32,6 +32,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
 Name: AutoAlerts
 
+Package: com.shiftcmdk.autoalerts
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.autoalerts_1.0.2_iphoneos-arm.deb
+Size: 49792
+MD5sum: 21ee93af7a1fffb352f63aff93ff68c6
+SHA1: 4f908f2d2518d6dd7380b2c757f1caa02ba42972
+SHA256: e9913ac9973bbec2784bbb54fbbe98fefe2e1e36952221c474393deb76acc3fd
+Section: Tweaks
+Description: Automate alert actions.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.autoalerts
+Name: AutoAlerts
+
 Package: com.shiftcmdk.awesomepagedots
 Version: 1.0
 Architecture: iphoneos-arm

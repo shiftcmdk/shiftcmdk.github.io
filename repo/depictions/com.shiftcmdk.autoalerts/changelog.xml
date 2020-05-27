@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.2</version>
+        <change>Added support for dark mode on iOS 13.</change>
+        <change>Fixed layout issues on iOS 13.</change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         <change>Fixed a crash on iPads when presenting save/delete action sheets.</change>
     </changes>
