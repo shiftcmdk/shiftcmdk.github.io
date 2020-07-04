@@ -406,6 +406,22 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.homescreenswipelock
 Name: HomeScreenSwipeLock
 
+Package: com.shiftcmdk.noclipboardforyou
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shiftcmdk
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.noclipboardforyou_1.0_iphoneos-arm.deb
+Size: 20302
+MD5sum: 2144c3c8ed9bc7c1f6055114e0e1407e
+SHA1: af8a2869edebbedcf6581d3e76e336dc8b348b98
+SHA256: 5216624482fea2406a6a448ba682fd4d338a3dd4f4d88323481119310e1ea062
+Section: Tweaks
+Description: Prevent apps from accessing your clipboard.
+Author: shiftcmdk
+Name: NoClipboardForYou
+
 Package: com.shiftcmdk.pencilchargingindicator
 Version: 1.0
 Architecture: iphoneos-arm
