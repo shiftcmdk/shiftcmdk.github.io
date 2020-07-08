@@ -1,7 +1,7 @@
 <package>
-    <id>com.shiftcmdk.noclipboardforyou_1.0.1_iphoneos-arm</id>
+    <id>com.shiftcmdk.noclipboardforyou_1.0.2_iphoneos-arm</id>
     <name>NoClipboardForYou</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -19,7 +19,7 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>Fixed a visual bug where toggles would not stay enabled.</change>
+        <change>Fixed a bug where the installation would fail with a fresh state.</change>
     </changelog>
     <links></links>
 </package>

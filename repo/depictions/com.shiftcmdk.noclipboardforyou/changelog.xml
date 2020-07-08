@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.2</version>
+        <change>Fixed a bug where the installation would fail with a fresh state.</change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         <change>Fixed a visual bug where toggles would not stay enabled.</change>
     </changes>
