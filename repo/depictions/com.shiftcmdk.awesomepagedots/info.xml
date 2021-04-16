@@ -1,7 +1,7 @@
 <package>
-    <id>com.shiftcmdk.awesomepagedots_1.1.3_iphoneos-arm</id>
+    <id>com.shiftcmdk.awesomepagedots_1.2_iphoneos-arm</id>
     <name>AwesomePageDots</name>
-    <version>1.1.3</version>
+    <version>1.2</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -15,8 +15,7 @@
     <screenshots>
     </screenshots>
     <changelog>
-        <change>iOS 13 support</change>
-        <change>Fixed a crash that could occur on some iOS 13 devices.</change>
+        <change>iOS 14 support</change>
     </changelog>
     <links></links>
 </package>
