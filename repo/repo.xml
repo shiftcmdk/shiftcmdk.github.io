@@ -1,2 +1,12 @@
 <repo>
+    <footerlinks>
+        <link>
+            <name>Reddit</name>
+            <url>https://www.reddit.com/user/xp333p333x/</url>
+        </link>
+        <link>
+            <name>GitHub</name>
+            <url>https://github.com/shiftcmdk</url>
+        </link>
+    </footerlinks>
 </repo>
